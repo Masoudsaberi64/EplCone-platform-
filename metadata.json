@@ -1,0 +1,6 @@
+{
+  "name": "EplCone Industrial Academy",
+  "description": "پلتفرم جامع آموزش و شبیه‌سازی مهندسی برق و اتوماسیون صنعتی EplCone",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
